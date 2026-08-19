@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/background_upscayl_5x_digital-art-4x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.Navegacao a {
+    color: rgb(243, 242, 210);
+    padding: 1px;
+    font-size: 50px;
+    font-weight: initial;
+    justify-content: center;
+    text-decoration: underline;
+    align-items: center;
+}
